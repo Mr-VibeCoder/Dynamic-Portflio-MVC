@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$user = 'root';
-$pass = ''; // or your password if using online hosting
-$db = 'vibe_portfolio';
+$host = 'ssql102.infinityfree.com';
+$user = 'if0_39436616';
+$pass = 'zzJdhe3LICNh';
+$db   = 'if0_39436616_portfolio';
 
 $conn = new mysqli($host, $user, $pass, $db);
 
